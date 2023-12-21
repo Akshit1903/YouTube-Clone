@@ -1,7 +1,8 @@
 # YouTube Clone
 
 This project is a YouTube Clone that replicates some of the core features of the YouTube platform. It has been developed using modern web technologies, including React, Redux Toolkit, React Router, Tailwind CSS, and it leverages the YouTube Data API (v3) for fetching video data.
-<a href="https://youtu.be/VFBKVh392NE">YouTube</a>
+<a href="https://youtu.be/VFBKVh392NE">YouTube.</a>
+<a href="https://you-tube-clone-chi-five.vercel.app/">Deployed Link.</a>
 <br>
 Note: Install this <a href="https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf"> Chrome Extension</a> for the app to enable CORS on your system use search feature correctly.
 
