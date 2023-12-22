@@ -29,7 +29,7 @@ Follow these steps to get the FoodVilla project up and running on your local mac
 2. **Install the dependencies:**
 
    ```bash
-    cd youtube-clone
+    cd YouTube-Clone
     npm install
    ```
 
